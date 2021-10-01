@@ -1,4 +1,4 @@
 # Imc
 Projeto de Tpa
 
-<a href="https://alexandrerodrigues2311.github.io/Projeto1-IMC/"><img src=".\imc.png" width="250px"></a>
+<a href="https://gustavohsc20.github.io/Imc/"><img src=".\imc.png" width="250px"></a>
